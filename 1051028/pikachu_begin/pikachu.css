@@ -1,0 +1,81 @@
+    * {
+    border: red 1px solid;
+        
+}
+
+body{
+    position: absolute;
+        top: 0px;
+        left: 20%;
+        right:20%;
+}
+    .circle1 {
+        box-sizing: border-box;
+        height: 300px;
+        width: 300px;
+        border-radius: 50%;
+        position: absolute;
+        top: -75px;
+        left: 130px;
+        color: #f6e652;
+        background-color: coral;
+        
+        text-align: center;
+            }
+ .circle2 {
+        box-sizing: border-box;
+        height: 300px;
+        width: 300px;
+        border-radius: 50%;
+        position: absolute;
+        top: 100px;
+        left: 200px;
+        color: #f6e652;
+        background-color: coral;
+     text-align: center;
+                 }
+ .circle3 {
+        box-sizing: border-box;
+        height: 500px;
+        width: 500px;
+        border-radius: 50%;
+        position: absolute;
+        top: 150px;
+        left: 130px;
+        color: #f6e652;
+        background-color:white;
+     text-align: center;
+            }
+ .circle4 {
+        box-sizing: border-box;
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+        position: absolute;
+        top: 150px;
+        left: 300px;
+        background-color:white;
+        padding:35px;
+            }
+ .circle5 {
+        box-sizing: border-box;
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        position: absolute;
+        top: 150px;
+        left: 130px;
+        color: rebeccapurple;
+     text-align: center;
+            }
+ .circle6 {
+        box-sizing: border-box;
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        position: absolute;
+        top: 150px;
+        left: 130px;
+        color: rebeccapurple;
+     text-align: center;
+            }

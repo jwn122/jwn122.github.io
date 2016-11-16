@@ -1,0 +1,44 @@
+body{
+    font-family: Microsoft JhengHei;'Open Sans', sans-serif;
+    background-color: azure; 
+    font-size: 14px;
+    
+}
+h1{
+    color: blue;
+    font-size: 400%;
+    font-weight:bold;
+}
+h5{font-size: 110%;
+    color:#a0a0a0;
+}
+p{font-size: 100%;}
+table{
+    background-color:floralwhite;
+    border:3px solid floralwhite;
+/*  border-width: 3px;
+    border-style:solid;
+    border-color:floralwhite;*/
+    
+}
+/*表格白字*/
+img{
+    background-color: floralwhite;
+    border-bottom-color:floralwhite;
+}
+.art01{
+    background-color:burlywood;
+	top: 50px;
+    left:50px;
+	right:50px;
+    border-top-left-radius:10%;
+    border-top-right-radius: 10%;
+    border-bottom-color: aquamarine;
+  
+}
+      
+}
+
+#art01 h2{
+    color:crimson;
+}

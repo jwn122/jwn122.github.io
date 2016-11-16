@@ -1,0 +1,48 @@
+*{
+    border: red 1px solid;
+
+    
+}
+html{
+    font-family:"微軟正黑體", Arial, Helvetica, sans-serif;
+}
+.title:after{
+    content:"臺中市健康體驗產業發展計畫";
+    color: #666666; 
+}
+.t-w{
+    background-color: #f2f2f2;
+}
+
+
+/* ----------------------------------------------TopBar topline------------------------------------- */
+
+#topline {padding: 10px 0;}
+#topline p {
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+#topline a {
+    color: #FFFFFF;
+    background-color: #666666;
+}
+
+#topline ul {
+    float: right;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#topline li {
+    display: inline;
+    margin: 0 8px 0 0;
+    padding: 0 10px 0 0;
+    border-right: 1px solid #999999;
+}
+
+#topline li.last {
+    margin-right: 0;
+    padding-right: 0;
+    border: none;
+}

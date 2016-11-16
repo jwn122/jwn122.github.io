@@ -1,0 +1,52 @@
+/*
+*{
+    border: red 1px solid;
+    padding:30px;
+   }*/
+
+.cb {
+    height: 200px;
+    width: 200px;
+    background-color: coral;
+    box-sizing: content-box;
+    padding: 50px;
+}
+
+.bb {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    box-sizing: border-box;
+    padding: 50px;
+    border:
+}
+
+.dm {
+    box-sizing: border-box;
+    background-color: skyblue;
+    padding: 10px;
+    border: #FFFFFF 2px dashed;
+    background-image: url(images/background.gif);
+    background-repeat: repeat-y;
+    padding-left: 100px;
+}
+
+.FLOATr {
+    height: 100px;
+    width: 50px;
+    background-color: coral;
+    float: right;
+}
+
+.FLOATi {
+    height: 100px;
+    width: 100px;
+    background-color: palevioletred;
+}
+
+.FLOATl {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    float: left;
+}
